@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/baidu_map/static/css/main.e6c13ad2.css",
-    "main.js": "/baidu_map/static/js/main.45cc8f72.js",
+    "main.js": "/baidu_map/static/js/main.77df88c7.js",
     "static/js/787.202f1f46.chunk.js": "/baidu_map/static/js/787.202f1f46.chunk.js",
-    "static/media/star.svg": "/baidu_map/static/media/star.7e34b92a036723e6ccb919adae63cc1b.svg",
     "index.html": "/baidu_map/index.html",
+    "static/media/hotel.svg": "/baidu_map/static/media/hotel.bbb57b14d52b038decff3dc167de8ebe.svg",
     "main.e6c13ad2.css.map": "/baidu_map/static/css/main.e6c13ad2.css.map",
-    "main.45cc8f72.js.map": "/baidu_map/static/js/main.45cc8f72.js.map",
+    "main.77df88c7.js.map": "/baidu_map/static/js/main.77df88c7.js.map",
     "787.202f1f46.chunk.js.map": "/baidu_map/static/js/787.202f1f46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.45cc8f72.js"
+    "static/js/main.77df88c7.js"
   ]
 }
